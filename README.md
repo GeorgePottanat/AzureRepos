@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/George0909/Test1/_apis/build/status/GeorgePottanat.AzureRepos?branchName=master)](https://dev.azure.com/George0909/Test1/_build/latest?definitionId=1&branchName=master)
+
 # Introduction 
 
 Welcome to George's Repo! Second change  1
